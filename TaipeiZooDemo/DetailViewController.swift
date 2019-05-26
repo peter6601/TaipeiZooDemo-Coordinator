@@ -1,5 +1,5 @@
 //
-//  SecondViewController.swift
+//  DetailViewController.swift
 //  TaipeiZooDemo
 //
 //  Created by DinDin on 2019/5/26.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class DetailViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
